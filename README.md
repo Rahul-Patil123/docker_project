@@ -1,7 +1,5 @@
 ## demo app - developing with Docker
 
-In this lesson we worked with Mongo and Docker
-
 - I started by cloning the repo and adding him to my github account.
 - I then run docker compose up to start the containers
 - I then moved in to the app folder
