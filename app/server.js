@@ -24,7 +24,7 @@ app.get('/profile-picture', function (req, res) {
 });
 
 // use when starting application locally with node command
-let mongoUrlLocal = "mongodb://admin:pass@mongo:27017";
+let mongoUrlLocal = "mongodb://admin:pass@mongodb";
 
 // use when starting application as a separate docker container
 let mongoUrlDocker = "mongodb://admin:pass@host.docker.internal:27017";
